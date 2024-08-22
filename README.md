@@ -1,7 +1,7 @@
 # <p style="text-align: center;"> GIOVANI DE MOURA ANDRÉ </p>
 
 ### 📚 -  Estudante de programação 
-#### Atualmente estudando Java
+#### Atualmente estudando Java e Python 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gvnimra&show_icons=true&theme=dark )
 
